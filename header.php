@@ -12,4 +12,4 @@
 </head>
 <body <?php body_class(); ?> style="background-color: <?php echo __(get_theme_mod("my_theme_background_color")) ?>;">
 <h1><?php echo get_bloginfo( 'title', 'display' ); ?></h1>
-<h1><?php echo get_bloginfo( 'description', 'display' ); ?></h1>
+<h1><?php echo get_bloginfo( 'description', 'display' ); ?></h1> 
